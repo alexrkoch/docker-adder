@@ -10,4 +10,8 @@ Simple command-line adder function to practice docker
 
 ## NOTES:
 
-- Maybe use the CI/CD pipeline described here: https://circleci.com/blog/build-cicd-piplines-using-docker/
+### CI/CD Options:
+
+- CircleCI: https://circleci.com/blog/build-cicd-piplines-using-docker/
+- GitHub Actions described by Docker:
+  https://docs.docker.com/language/python/configure-ci-cd/
