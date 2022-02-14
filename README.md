@@ -8,6 +8,12 @@ Simple command-line adder function to practice docker
   those numbers.
 - The program should be developed with tests using a simple CI/CD pipeline.
 
+## INSTALLATION:
+
+- clone repo to local machine.
+- `docker build --tag docker-adder .`
+- `docker run docker-adder`
+
 ## NOTES:
 
 ### CI/CD Options:
