@@ -10,6 +10,7 @@ Simple command-line adder function to practice docker
 
 ## INSTALLATION:
 
+- clone repo to local machine.
 - launch docker desktop.
 - `docker build --tag docker-adder .`
 - `docker run docker-adder`
