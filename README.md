@@ -1,8 +1,6 @@
 # docker-adder
 
-Simple command-line adder function to practice docker
-
-## GOALS:
+Simple command-line adder function to practice docker **GOALS:**
 
 - Dockerize a program that takes 2 numbers via user CLI and returns the sum of
   those numbers.
@@ -10,7 +8,7 @@ Simple command-line adder function to practice docker
 
 ## INSTALLATION:
 
-- clone repo to local machine.
+- launch docker desktop.
 - `docker build --tag docker-adder .`
 - `docker run docker-adder`
 
