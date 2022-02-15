@@ -1,1 +1,2 @@
-print("hello world, I'm the adding machine")
+def adder(a, b):
+  return a + b
